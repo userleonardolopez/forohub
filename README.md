@@ -1,4 +1,8 @@
-# ForoHub
+<h1 align="center">ForoHub</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08897e23-914b-4f29-96e3-d05d3235cf2e"/>
+</p>
+
 ## 📋 Descripción del proyecto
 API REST de foro que permite realizar operaciones CRUD a través de un cliente API.
 También integra inicio de sesión elaborado con Spring Security con autenticación por base de datos.
